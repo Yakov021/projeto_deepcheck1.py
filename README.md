@@ -69,3 +69,7 @@ python projeto.py
 
 - Arquivos suspeitos são movidos para a pasta `QUARENTENA/`
 - Um arquivo de log é gerado com timestamp, nome do arquivo e motivo da suspeita
+
+## 🖥️ Exemplo Real de Execução
+
+![ExtCheck em execução](docs/imgs/execucao.png)
