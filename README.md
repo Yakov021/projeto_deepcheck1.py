@@ -73,3 +73,7 @@ python projeto.py
 ## 🖥️ Exemplo Real de Execução
 
 ![ExtCheck em execução](execucao.png)
+
+- Criação dos logs
+![ExtCheck em execução](criação_log.png)
+![ExtCheck em execução](log.png)
