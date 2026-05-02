@@ -40,7 +40,7 @@ Repositório da análise: [Warmcookie_wireshark](link_aqui)
 
 **1. Clone o repositório**
 ```bash
-git clone https://github.com/Yakov021/projeto_deepcheck1.py
+git clone https://github.com/Yakov021/projeto_ExtCheck
 ```
 
 **2. Crie e ative o ambiente virtual**
