@@ -72,4 +72,4 @@ python projeto.py
 
 ## 🖥️ Exemplo Real de Execução
 
-![ExtCheck em execução](docs/img/execucao.png)
+![ExtCheck em execução](execucao.png)
